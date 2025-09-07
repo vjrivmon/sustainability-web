@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="6" fill="#2D5F3F"/>
+  <g fill="#F5E6D3">
+    <!-- Letter A -->
+    <path d="M7 24V12.5L10.5 8h2l3.5 4.5V24h-2v-4H9v4H7zm2-6h4.5v-2.5L11.75 13h-0.5L9 15.5V18z"/>
+    <!-- Chess Bishop in center -->
+    <path d="M15 8.5c0.5 0 1 0.2 1.4 0.6L18 10.5c0.3 0.3 0.5 0.7 0.5 1.1v5.4c0 0.6-0.2 1.2-0.7 1.6l-1.3 1.4h2v1.5h-5v-1.5h2l-1.3-1.4c-0.5-0.4-0.7-1-0.7-1.6v-5.4c0-0.4 0.2-0.8 0.5-1.1l1.6-1.4c0.4-0.4 0.9-0.6 1.4-0.6z"/>
+    <!-- Letter F -->  
+    <path d="M21 24V8h7v2h-5v4h4v2h-4v8h-2z"/>
+  </g>
+</svg>
